@@ -1,4 +1,4 @@
-# Ascii-Convertor
+# Ascii Art Convertor
 This is my first ever project. I hope you guys can give me feed back on what i can improve.
 
 # Convert PNG to Ascii. (Python)
