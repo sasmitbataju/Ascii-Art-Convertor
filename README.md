@@ -16,7 +16,7 @@ pip install Pillow
 .convert("L")
 
 # Save image:
-image.save(filename)
+image.save(filename.png)
 
 # Clone this:
 https://github.com/RameshAditya/asciify.git
