@@ -1,10 +1,10 @@
 # Ascii-Convertor
 Convert PNG to Ascii. (Python)
 
+You need to run the script and edit the stuff that are inside. 
+
 Before you do anything, check that you have installed PILLOW already.
 (if you have, go ahead and continue)
-
-You need to run the script and edit the stuff that are inside. 
 
 # Install PILLOW library:
 pip install Pillow
