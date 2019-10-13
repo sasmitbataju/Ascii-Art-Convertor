@@ -14,9 +14,3 @@ pip install Pillow
 # Save image:
 image.save(filename.png)
 
-# Clone this:
-https://github.com/RameshAditya/asciify.git
-
-Use this asciify library so you can open the converted file and view it as your very own ascii art.
-
-How to use this is given in there. Read the readme file. I do not own this algorithm. All credit goes to Ramesh Aditya. Go check him out and follow his guide. Enjoy!
